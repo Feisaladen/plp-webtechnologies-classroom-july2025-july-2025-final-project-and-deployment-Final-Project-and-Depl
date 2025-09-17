@@ -42,7 +42,7 @@ header {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url('js/images/img.jpg') no-repeat center center;
+  background: url('js/assets/img.jpg') no-repeat center center;
   background-size: cover;   
   background-attachment: fixed; 
   display: flex;
